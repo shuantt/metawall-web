@@ -1,0 +1,20 @@
+white
+#FFFFFF
+
+bg-gray
+#EFECE7
+
+box-shadow
+#00040029
+
+border/text (black)
+#000400
+
+bg-seam
+#707070
+
+placeholder
+#9B9893
+
+primary
+#03438D
