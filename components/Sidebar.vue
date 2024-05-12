@@ -18,14 +18,18 @@
       </a>
       <a href="#" class="flex align-middle">
         <div
-          class="mr-4 h-12 w-12 rounded-full border-2 border-solid border-black bg-[#E2EDFA] bg-cover bg-center"
-        ></div>
+          class="mr-4 flex h-12 w-12 items-center justify-center rounded-full border-2 border-solid border-black bg-[#E2EDFA] bg-cover bg-center"
+        >
+          <Icon name="uil:bell" class="text-2xl" />
+        </div>
         <span class="block self-center text-base font-bold">追蹤名單</span>
       </a>
       <a href="#" class="flex align-middle">
         <div
-          class="mr-4 h-12 w-12 rounded-full border-2 border-solid border-black bg-[#E2EDFA] bg-cover bg-center"
-        ></div>
+          class="mr-4 flex h-12 w-12 items-center justify-center rounded-full border-2 border-solid border-black bg-[#E2EDFA] bg-cover bg-center"
+        >
+          <Icon name="ph:thumbs-up-bold" class="text-2xl" />
+        </div>
         <span class="block self-center text-base font-bold">按讚貼文</span>
       </a>
     </div>

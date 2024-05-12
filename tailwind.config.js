@@ -22,17 +22,15 @@ export default {
     extend: {
       colors: {
         'primary': '#03438D',
-        'secondary': {
-          100: '#E2E2D5',
-          200: '#888883',
-        },
+        'secondary': "#EEC32A",
         'accent': {
           DEFAULT: '#FFA500',
           secondary: '#FFD700',
           tertiary: ''
         },
-        'grey': {
-          DEFAULT: '#F5F5F5',
+        'gray': {
+          DEFAULT: '#9B9893',
+          disabled:'#A8B0B9',
           secondary: '#E5E5E5',
           tertiary: '#D5D5D5'
         }
